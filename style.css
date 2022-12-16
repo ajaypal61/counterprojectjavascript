@@ -1,0 +1,51 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(16, 15, 15);
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 50vh;
+}
+
+.counter-container{
+    margin: 0 5rem;
+    /* background: white; */
+}
+
+.icon{
+    font-size: 55px;
+    padding-bottom: 15px;
+}
+
+.counter{
+    font-size: 40px;
+    padding-bottom: 10px;
+    color: rgba(207, 207, 118, 0.905);
+}
+
+.counter-container span{
+    font-size: 20px;
+    color: rgb(140, 127, 127);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
